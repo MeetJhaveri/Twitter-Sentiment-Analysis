@@ -10,7 +10,7 @@ Sentiment analysis on Twitter data helps in gauging public opinion, understandin
   
 - **Feature Extraction:** Utilizes techniques like TF-IDF to convert text data into numerical features.
   
-- **Model Training:** Trains classification models such as Logistic Regression, Random Forest, and Support Vector Machines (SVM) for sentiment analysis.
+- **Model Training:** Trains classification models such as Logistic Regression, Random Forest, and Support Vector Machines (SVM) for sentiment analysis. Used the model which gives the best accuracy. 
   
 - **Evaluation:** Assesses model performance using metrics like accuracy, precision, recall, and F1-score.
 
